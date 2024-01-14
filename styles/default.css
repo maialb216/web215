@@ -1,0 +1,49 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+
+/* bg color is dark slate gray, base text is snow, special text is powder blue */
+
+/* text */
+html {
+	background-color: rgb(47, 79, 79);
+	font-family: 'EB Garamond', serif;
+	color: rgb(255, 250, 250);
+}
+
+h1, h2, h3 {
+	color: rgb(176, 224, 230);
+	text-align: center;
+}
+
+ul {
+	list-style-position: inside;
+	text-align: left;
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+}
+
+/* spacing */
+body {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+/* components */
+footer p {
+	font-size: 100%;
+	text-align: center;
+}
+
+footer nav {
+	font-size: 100%;
+	text-align: center;
+}
+
+figure img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

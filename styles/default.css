@@ -32,12 +32,12 @@ body {
 }
 
 /* components */
-footer p {
+footer p, header p {
 	font-size: 100%;
 	text-align: center;
 }
 
-footer nav {
+footer nav, header nav {
 	font-size: 100%;
 	text-align: center;
 }

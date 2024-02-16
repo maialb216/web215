@@ -8,12 +8,22 @@ html {
 	background-color: rgb(47, 79, 79);
 	font-family: 'EB Garamond', serif;
 	color: rgb(255, 250, 250);
+	font-size: 110%;
 }
 
 h1, h2, h3 {
 	color: rgb(176, 224, 230);
 	font-family: "Besley", serif;
 	text-align: center;
+}
+
+a:link, a:visited {
+	color: rgb(144, 238, 144);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 ul {
@@ -42,6 +52,10 @@ footer p, header p {
 footer nav, header nav {
 	font-size: 100%;
 	text-align: center;
+}
+
+footer {
+	word-spacing: 20px;
 }
 
 figure img {

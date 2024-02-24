@@ -37,12 +37,6 @@ figcaption {
 	text-align: center;
 }
 
-/* spacing */
-body {
-	margin-left: 25%;
-	margin-right: 25%;
-}
-
 /* components */
 footer p, header p {
 	font-size: 100%;

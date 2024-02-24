@@ -64,9 +64,8 @@ figure img {
 	margin-right: auto;
 }
 
-.box {
+main {
 	background-color: rgb(0, 128, 128);
-	font-size: 100%;
 	margin-left: 25%;
 	margin-right: 25%;
 }
